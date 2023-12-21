@@ -1,13 +1,13 @@
 steps:
   integrationArtifactDeploy:
-    cpiApiServiceKeyCredentialsId: 2e129f7atrial
-    integrationFlowId: P2005880373-flow4
+    cpiApiServiceKeyCredentialsId: wlgore-s
+    integrationFlowId: kkovelam-flow4
   integrationArtifactGetMplStatus:
-    cpiApiServiceKeyCredentialsId: 2e129f7atrial
-    integrationFlowId: P2005880373-flow4
+    cpiApiServiceKeyCredentialsId: wlgore-s
+    integrationFlowId: kkovelam-flow4
   integrationArtifactUpload:
-    cpiApiServiceKeyCredentialsId: 2e129f7atrial
-    integrationFlowId: P2005880373-flow4
-    integrationFlowName: P2005880373-flow4
+    cpiApiServiceKeyCredentialsId: wlgore-s
+    integrationFlowId: kkovelam-flow4
+    integrationFlowName: kkovelam-flow4
     packageId: CICD
-    filePath: P2005880373-flow4.zip
+    filePath: kkovelam-flow4.zip
